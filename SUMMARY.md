@@ -5,3 +5,4 @@
 ## Solstice
 
 * [Donations](solstice/donations.md)
+* [Donations v2](solstice/donations-v2.md)
